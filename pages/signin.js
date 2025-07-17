@@ -43,7 +43,8 @@ const SignInPage = () => {
                     <div className="w-full max-w-md">
                         <h2 className="text-3xl font-bold text-gray-900">Sign In</h2>
                         <p className="mt-2 text-gray-600">
-                            Don't have an account?{' '}
+                        Don&apos;t have an account?
+                        {' '}
                             <Link href="/sign-up" className="font-semibold text-[#14d3b2] hover:underline">
                                 Sign Up
                             </Link>
